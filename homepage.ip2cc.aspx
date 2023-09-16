@@ -1,0 +1,1 @@
+if (!x || x=='') {if(document.getElementById('encz')){document.getElementById('encz').selected = true;}};
